@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "JavaScript's Not That Bad!"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2023-08-31
 published: true
 labels:
   - Programming
