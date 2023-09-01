@@ -1,54 +1,60 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "JavaScript's Not That Bad!"
 # All dates must be YYYY-MM-DD format!
 date: 2016-02-06
-published: false
+published: true
 labels:
-  - Engineering
+  - Programming
+  - Software Development
+  - Front-End Development
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+## Brief Overview
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+If you want a TL;DR: here it is!
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+I thought JavaScript scawy, took the intro course, did some WODs, wasn't that bad!
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+If you weren't satisfied with that and have decided to **CONTINUE** reading: then be my guest! In this very unhelpful essay I will cover how I felt about: 
+  **1)** Going into learning JavaScript
+  **2)** The process of learning JavaScript
+  **3)** Developing familiarity with JavaScript
+  *And* **4)** Final thoughts on my experience with JavaScript up until now. 
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+## The Insurmountable Great of Early Web Browser Environments
 
-Here's what I think: the difficult things will always be difficult.
+To be frank: I am ***VERY*** much scared whenever I learn something new. In situations such as those I always feel like I'm out of my wheelhouse and that, somehow, my skillset wouldn't convert over in any meaningful way. This has been true for all the skills I've learned up to now like swimming, biking, public speaking, writing, programming, dancing (still not good at this one unfortunately), and any other skill that you would expect of a normal functioning human being. 
 
-## In the context of programming
+So imagine this: the child who grew up on Flash games and interactive websites (with ActionScript, being a code that used to be a sibling developed alongside JavaScript that resembles JavaScript class & syntax-wise, and Javascript respectively) is given the chance to learn something that has the opportunity to create mind-boggling effects: like Apple's homepage. Of course I would be excited! However that came with the feeling of expectations:
+"*Do I need to completely relearn my syntax?*"
+"*Would I have to learn a completely different system of data-handling?*"
+"*How long would it take for me to unlearn and relearn everything?*"
+After all I always like to plan for the worst-case scenario: which is inherently built into my character. So going into JavaScript I was nervous, yet excited, for what was to come.
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
+## Some Very Frustratingly Familiar (Yet Relieving) Lessons
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
+Popping open FreeCodeCamp and doing both the JavaScript and ES6 lessons, which accumulated to approximately 160 exercises (SHEESH), I spent a few hours getting acquainted with all the basics of the language: from assigning variables and how you don't have to declare variable type at declaration to syntax for functions, objects, and loops. Thankfully my skills in Java, the language I have faithfully relied on since my jumbled and horrible text-based turn-based RPG I developed alone to random string generators & data-processing/sorting algorithms, carried over in full stride.
 
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
+*Those 6 years of Java programming did wonders baby!*
 
-## In the context of engineering
+Thankfully having Java in the name made its syntax eerily similar to Java, and the small romp I had with Python helped wrap my head around the variable system. So after those long hours of grinding out the exercises, I was ready to do some athletic-based software engineering (not yet though, just programming): WODs!
 
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
+## Rocky Balboa Would Be Jealous
 
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
+"*Here's to you, kid!*" -Jaximus, Surviving Legacy of Icathia.
 
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
+Having to practice your JavaScript under time constraints for an assignment is a crazy idea: so whoever thought of this needs to be fired! They're giving our next generation anxiety attacks! (Just jokes, don't get too mad at me now).
 
-## In the context of relationships
+The pressure of having to put down what you have planned in psuedocode in your head into a console in JavaScript is a good motivator and practice! Even though I do have familiarity in JavaScript and programming at this point, these exercises helped shake off the rust from my lack of programming for a year or two. And even though my first attempts were hit or miss (DNF or Rx, baby! No in-between!), by the time we did our first actual no redos WOD in class I managed to do it quick enough to have it working under four minutes.
 
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
+So remember kids: "*Practice makes perfect!*" (Unless you're practicing bad habits, then ***CUT THAT OUT!***) [PS: No one can be perfect, so that quote is bad.]
 
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
+## I'm Sure You're Tired of Reading: So There's the Finish Line!
 
-Relationships have always been difficult, and by nature will continue to be so.
+JavaScript and I are going to have a long and loving marriage for the foreseeable future. I don't think I would abandon this language unless it was REALLY going out of style. JavaScript is easy to learn, there's a lot of resources to help you get acquiainted with it, and is used in a wide array of web development. 
 
-## Okay!
+I would recommend learning it to everyone, irregardless of coding experience and desire to program. After all: what's the harm in learning how to do something? And sure learning JavaScript might be stressful, or the things that you do make you feel as if you're in a dead-end...
 
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+But with enough love, care, passion, and perserverence (and external help): I'm sure you too can learn JavaScript (or get better. What are you doing here still? GO!)
