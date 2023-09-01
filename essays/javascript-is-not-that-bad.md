@@ -51,7 +51,7 @@ Thankfully having Java in the name made its syntax eerily similar to Java, and t
 
 Having to practice your JavaScript under time constraints for an assignment is a crazy idea: so whoever thought of this needs to be fired! They're giving our next generation anxiety attacks! (Just jokes, don't get too mad at me now).
 
-The pressure of having to put down what you have planned in psuedocode in your head into a console in JavaScript is a good motivator and practice! Even though I do have familiarity in JavaScript and programming at this point, these exercises helped shake off the rust from my lack of programming for a year or two. And even though my first attempts were hit or miss (DNF or Rx, baby! No in-between!), by the time we did our first actual no redos WOD in class I managed to do it quick enough to have it working under four minutes.
+The pressure of having to put down what you have planned in psuedocode in your head into a console in JavaScript is a good motivator and practice! Even though I do have familiarity in JavaScript and programming at this point, these exercises helped shake off the rust from my lack of programming for a year or two. And even though my first attempts were hit or miss (DNF or Rx, baby! No in-between!), by the time we did our first actual no-redos WOD in class I managed to do it quick enough to have it working under four minutes.
 
 So remember kids: "*Practice makes perfect!*" (Unless you're practicing bad habits, then ***CUT THAT OUT!***) [PS: No one can be perfect, so that quote is bad.]
 
