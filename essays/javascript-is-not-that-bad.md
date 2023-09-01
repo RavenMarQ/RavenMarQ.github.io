@@ -19,10 +19,13 @@ I thought JavaScript scawy, took the intro course, did some WODs, wasn't that ba
 
 If you weren't satisfied with that and have decided to **CONTINUE** reading: then be my guest! In this very unhelpful essay I will cover how I felt about: 
   **1)** Going into learning JavaScript
+  
   **2)** The process of learning JavaScript
+  
   **3)** Developing familiarity with JavaScript
+  
   *And* **4)** Final thoughts on my experience with JavaScript up until now. 
-
+  
 ## The Insurmountable Great of Early Web Browser Environments
 
 To be frank: I am ***VERY*** much scared whenever I learn something new. In situations such as those I always feel like I'm out of my wheelhouse and that, somehow, my skillset wouldn't convert over in any meaningful way. This has been true for all the skills I've learned up to now like swimming, biking, public speaking, writing, programming, dancing (still not good at this one unfortunately), and any other skill that you would expect of a normal functioning human being. 
