@@ -28,9 +28,13 @@ If you weren't satisfied with that and have decided to **CONTINUE** reading: the
 To be frank: I am ***VERY*** much scared whenever I learn something new. In situations such as those I always feel like I'm out of my wheelhouse and that, somehow, my skillset wouldn't convert over in any meaningful way. This has been true for all the skills I've learned up to now like swimming, biking, public speaking, writing, programming, dancing (still not good at this one unfortunately), and any other skill that you would expect of a normal functioning human being. 
 
 So imagine this: the child who grew up on Flash games and interactive websites (with ActionScript, being a code that used to be a sibling developed alongside JavaScript that resembles JavaScript class & syntax-wise, and Javascript respectively) is given the chance to learn something that has the opportunity to create mind-boggling effects: like Apple's homepage. Of course I would be excited! However that came with the feeling of expectations:
+
 "*Do I need to completely relearn my syntax?*"
+
 "*Would I have to learn a completely different system of data-handling?*"
+
 "*How long would it take for me to unlearn and relearn everything?*"
+
 After all I always like to plan for the worst-case scenario: which is inherently built into my character. So going into JavaScript I was nervous, yet excited, for what was to come.
 
 ## Some Very Frustratingly Familiar (Yet Relieving) Lessons
