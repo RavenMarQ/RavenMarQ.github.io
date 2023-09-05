@@ -60,7 +60,7 @@ So remember kids: "*Practice makes perfect!*" (Unless you're practicing bad habi
 
 ## I'm Sure You're Tired of Reading: So There's the Finish Line!
 
-JavaScript and I are going to have a long and loving marriage for the foreseeable future. I don't think I would abandon this language unless it was REALLY going out of style. JavaScript is easy to learn, there's a lot of resources to help you get acquiainted with it, and is used in a wide array of web development. 
+JavaScript and I are going to have a long and loving marriage for the foreseeable future. I don't think I would abandon this language unless it was REALLY going out of style. JavaScript is easy to learn, there's a lot of resources to help you get acquainted with it, and is used in a wide array of web development. 
 
 I would recommend learning it to everyone, irregardless of coding experience and desire to program. After all: what's the harm in learning how to do something? And sure learning JavaScript might be stressful, or the things that you do make you feel as if you're in a dead-end...
 
