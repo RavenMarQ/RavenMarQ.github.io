@@ -64,7 +64,7 @@ I'm not good at reflecting when nobody has proposed no other way to do it within
 
 ## I ***HATE*** Discussion Posts!
 
-Discussing WODs after their finished is what I do in preparation, so my answer to the question of "Is there value in discussion?" is obvious:
+Discussing WODs after they're finished is what I do in preparation, so my answer to the question of "Is there value in discussion?" is obvious:
 
 ***YES!***
 
