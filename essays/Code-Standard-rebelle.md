@@ -22,7 +22,7 @@ As a (mostly) informative essay, you'll come to learn about what *I* learned fro
 Well- according to Browser Stack:
 >Coding standards are a set of guidelines and best practices that are used to create consistent, high-quality code.
 >Consider coding standards as rules, techniques, and best practices to develop cleaner, more readable, and more efficient code with minimal errors.
->>Link: https://www.browserstack.com/guide/coding-standards-best-practices#:~:text=Coding%20standards%20are%20a%20set,efficient%20code%20with%20minimal%20errors.
+>>[Link Here!](https://www.browserstack.com/guide/coding-standards-best-practices)
 >
 I think that perfectly summarizes coding standard, but one might ask:
 *"How are these standards enforced?"*
@@ -40,7 +40,7 @@ One might think to theirselves:
 *"Well- nobody else is going to read my code: I don't need to adhere to these standards!"*
 
 You would be correct... If not for the fact that even sometimes you might not be able to read your own code! Seriously! Take it from me who has been programming for a while: not commenting, properly spacing out your lines, or making them ***OBSCENELY*** long will bite you where the sun don't shine! 
-(I'm looking at you Java project from high school with that one out-of-context line containing 7 nested functions with 30+ parameters total spanning ~500 characters. [WITHOUT SPACES MIND YOU!] ***DAMN YOU, PAST ME!***) 
+(I'm looking at you Java project from high school with that one out-of-context line containing 7 nested functions with 30+ parameters total spanning ~500 characters. [WITHOUT SPACES MIND YOU!] ***DAMN YOU, PAST ME!*** ) 
 
 Plus- let's assume that you are some kind of nerd with photographic memory: practicing it with integrity allows you to subconsciously adhere to them, so that it is not difficult to do so when it is required of you to do so.
 
