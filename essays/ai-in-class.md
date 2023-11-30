@@ -28,7 +28,7 @@ Despite the relaxed culture to copying code and using artificial intelligence, y
 
 **EVERY. SINGLE. THING. I HAVE OPTED TO** ***NOT*** **USE AI.**
 
-"Why? It's so easy, nobody care, and even the **PROFESSOR** himself has stated that is not only allowed, but **ENCOURAGED**."
+"Why? It's so easy, nobody cares, and even the **PROFESSOR** himself has stated that is not only allowed, but **ENCOURAGED**."
 
 Well, I believe in the standard educational purview: to be able to understand why something happens, how it occurs, its applications, and how to do it. In this class, we're being taught to learn how to properly code in Javascript and HTML+CSS, and deal with Meteor, React, and MongoDB. Therefore, I have taken it upon myself to actively learn how to do these things by hand, so in the case the AI does not properly answer to a problem or create a code block, I can fix its errors, or in the worst-case scenario, do it from scratch.
 
