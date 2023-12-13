@@ -4,7 +4,7 @@ type: essay
 title: "Code Standard cest un Oiseau Rebelle"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-20
-published: true
+published: false
 labels:
   - Programming
   - Software Engineering
@@ -22,7 +22,7 @@ As a (mostly) informative essay, you'll come to learn about what *I* learned fro
 Well- according to Browser Stack:
 >Coding standards are a set of guidelines and best practices that are used to create consistent, high-quality code.
 >Consider coding standards as rules, techniques, and best practices to develop cleaner, more readable, and more efficient code with minimal errors.
->>[Link Here!](https://www.browserstack.com/guide/coding-standards-best-practices)
+>>[Link to Source](https://www.browserstack.com/guide/coding-standards-best-practices)
 >
 I think that perfectly summarizes coding standard, but one might ask:
 *"How are these standards enforced?"*

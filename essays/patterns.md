@@ -20,17 +20,31 @@ This essay will be shorter as I am not too well-versed in the specifics of desig
 
 ## A product is like a puzzle set, thus coding is solving it.
 
-When someone buys you a puzzle set (admit it, only people who are hyper-fixated on something ever buys these for themselves), the first thing you do after dumping them out is find all the edge pieces. After that, you find the corner pieces and work outwards from there.
+When someone buys you a puzzle set (admit it, only people who are hyper-fixated on something ever buys these for themselves), you first have to figure out a way to solve the thing. In one common solution: the first thing you do after dumping them out is to find all the edge pieces. After finding all the edge pieces, you find the corner pieces (if applicable) and work outwards from there.
 
-Much in the same vein, when implementing something new in a code or starting out fresh, you want to implement the same tired classes or interactions. You may hate this, as you know how to do this and hope someone else could do it, but it's necessary. This is because both situations are patterns, while, in the latter case, coding specifically involves design patterns. This is because in coding, in most cases, problems and implementations can be broken down into steps that each may or may not have their own design patterns to create a solution. 
+Much in the same vein, when implementing something new in a code or starting out fresh, you may find yourself implementing the same old classes or interactions. You may hate this, as you're pretty sure you know how to do this and wish to curse someone else to do it, but you begrudgingly do so because it's necessary. 
 
-Design patterns, in coding, are general solutions that solve common problems that occur in software design. So it should not surprise you in the least when you find yourself copy and pasting certain code blocks into different files due to the similar nature between the two.
+Take note that both situations were patterns. We find patterns and apply a practiced solution or implementation to respond to said patterns. In our latter example, coding, specifically, involves something called design patterns. This is because in coding, in most cases, problems and implementations can be broken down into steps that each may or may not have their own design patterns to reach a solution.
 
-However, as with all things, design pattern solutions do have their consequences. Like starting from the edges, the issue arises of having to search through the other 90% of the puzzle to work inwards. Comparitively, if you just put like ends together, you have to actively put more effort into searching, though you will create multiple pools of completed parts that will make it easier to find where to put the next piece into. The same applies to code.
+From there we apply and derive a primitive definition:
+>Design patterns, in coding, are general solutions that solve common problems that occur in software design. 
+
+So it should not surprise you, in the least, when you find yourself copy-and-pasting certain code blocks into different files due to the seemingly "similar" nature between the two. And to think that you were applying your own design pattern.
+
+However, as with all things, design pattern solutions do have their consequences: if we take our example of starting from the edges of our puzzle piece, the issue arises of having to guess-and-check through the other 90% of the puzzle to work inwards. Comparatively, if you just put like ends together, although you have to initially put more effort into searching, you will create multiple pools of completed parts that will make it easier to find where to put the next piece into. This same balancing of pros and cons applies to coding design patterns.
+
+### A short addendum on Antipatterns
+
+With the prefix '-anti' meaning "opposite of" or "against" (in layman's terms), we can then derive the definition from our definition:
+> Antipatterns, in coding, are solutions that fail to, inadequately, or incorrectly solve common problems that occur in software design.
+
+So if you had a design pattern that creates objects optimally, by not creating a new object by using a reference or some other way, an antipattern version would create a new object every call **EVEN** when the object is a temporary one: eating up memory space and processing.
+
+Although the line between antipattern and design pattern are slim, like Singleton patterns being a security hazard but being good at reducing the time required to read, write, and update said value, generally one can tell an antipattern is one by the number of cons they pose compared to the pros they offer.
 
 ## In my case?
 
-To avoid yapping on about the coding I do for web design, as everybody and their mom loves to ramble on about more "practical" usages of coding, I will instead discuss my usages in the Unity engine where I am working on a separate project (I hope I can publish it when I get it in a presentable stage into my projects tab here in my portfolio). In short: the Unity engine creates easy avenues to implement many design patterns, being an engine that serves both as a psuedo-IDE and an active environment that is its own design pattern with built-in Factory designs and Observer designs.
+To avoid yapping on about the coding I do for web design, as everybody and their mom loves to ramble on about the more "practical" usages of coding, I will instead discuss my usages in the Unity engine where I am working on a separate project (I hope I can publish it when I get it in a presentable stage into my projects tab here in my portfolio). In short: the Unity engine creates easy avenues to implement many design patterns, being an engine that serves both as a psuedo-IDE and an active environment that is its own design pattern with built-in Factory designs and Observer designs.
 
 *A little note: Unity uses C#*
 

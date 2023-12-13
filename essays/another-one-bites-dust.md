@@ -4,7 +4,7 @@ type: essay
 title: "Another Bites the Dust"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-04
-published: true
+published: false
 labels:
   - Programming
   - Athletic Software Engineering

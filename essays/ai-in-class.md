@@ -26,9 +26,8 @@ Despite the relaxed culture to copying code and using artificial intelligence, y
 
 ## But, why **NOT** take the easy way out?
 
-**EVERY. SINGLE. THING. I HAVE OPTED TO** ***NOT*** **USE AI.**
-
-"Why? It's so easy, nobody cares, and even the **PROFESSOR** himself has stated that is not only allowed, but **ENCOURAGED**."
+>**EVERY. SINGLE. THING. I HAVE OPTED TO** ***NOT*** **USE AI.**
+>>"Why? It's so easy, nobody cares, and even the **PROFESSOR** himself has stated that is not only allowed, but **ENCOURAGED**."
 
 Well, I believe in the standard educational purview: to be able to understand why something happens, how it occurs, its applications, and how to do it. In this class, we're being taught to learn how to properly code in Javascript and HTML+CSS, and deal with Meteor, React, and MongoDB. Therefore, I have taken it upon myself to actively learn how to do these things by hand, so in the case the AI does not properly answer to a problem or create a code block, I can fix its errors, or in the worst-case scenario, do it from scratch.
 
@@ -50,6 +49,7 @@ Even in software engineering, with our culture of "borrowing",there is a problem
 
 Ultimately, the use of artificial intelligence stands at a crossroads, and it is up to everybody who are students, workers who use computers, and educators, to find their balance after understanding the implications of it. For me, I believe we must use it as an aid, and not a wheelchair. After all: 
 
-***"When I walk up to my friend with a cast and kick out their crutch, I love laughing at them hopping around like an idiot. But I don't steal wheelchairs. It's [messed] up laughing at people who are genuinely helpless."*** -*Deep quote from a friend who wishes to remain unnamed*
+>***"When I walk up to my friend with a cast and kick out their crutch, I love laughing at them hopping around like an idiot. But I don't steal wheelchairs. It's [messed] up laughing at people who are genuinely helpless."***
+>>*Deep quote from a friend who wishes to remain unnamed*
 
 Don't be helpless when artificial intelligence is robbed from you. Learn and make mistakes. You are human after all.

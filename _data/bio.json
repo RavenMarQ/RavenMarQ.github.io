@@ -15,7 +15,7 @@
   },
   "interests": [
     { "name": "Application Development" },
-    { "name": "Mixed Reality Development" },
+    { "name": "Extended Reality Development" },
     { "name": "Video Game Development" },
     { "name": "Artificial Intelligence" },
     { "name": "Creative Writing: (i.e. Playwriting, Novels, etc.)" }
@@ -23,7 +23,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript" ]
+      "keywords": [ "C", "C#", "C++", "Java", "Javascript" ]
     },
     {
       "name": "3D Modelling Environments",
@@ -41,7 +41,7 @@
       "studyType": "B.S.",
       "startDate": "2020-08-21",
       "endDate": "Present",
-      "courses": ["ICS 486: Virtual & Augmented Reality Programming", "ICS 314: Software Engineering I", "ICS 321: Database Systems I", "SLS 304: Socioling of Multilingualism", "SPAN 102: Elementary Spanish", "THEA 318: Playwriting"]
+      "courses": ["ICS 486: Virtual & Augmented Reality Programming", "ICS 314: Software Engineering I", "ICS 321: Database Systems I", "THEA 318: Playwriting"]
     }
   ],
   "volunteer": [
