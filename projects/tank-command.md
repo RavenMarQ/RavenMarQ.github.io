@@ -12,7 +12,7 @@ labels:
 summary: "I created a game in about a month from scratch in Unity for the Oculus Quest for ICS-486/685."
 ---
 
-<img src="../img/tank_command/commander.jpg" class="img-fluid">
+<img src="../img/tank_command/commander.jpg" width="300px" >
 
 ## Short Overview of My Experience
 
@@ -34,7 +34,7 @@ The package is available for viewing and downloading, provided at the end of thi
 
 **Gameplay**: Shoot enemy tanks! Using the two grenades and three shells, use them to defends and destroy enemy tanks!
 
-<img src="../img/tank_command/view.jpg" class="img-fluid">
+<img src="../img/tank_command/view.jpg" width="300px" >
 
 >Below is the Unity package, demo video, and explanation of showcased details in said demo video:
 >> [Link](https://drive.google.com/drive/folders/1CGsgBWofTsByxNPWiweFK2ZSEhVPm0Nd) (As of Dec. 10, 2023)

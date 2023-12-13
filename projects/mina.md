@@ -13,7 +13,7 @@ labels:
 summary: "I participated in a 20-work-hour service learning program where I helped the community while learning indigenous culture and history."
 ---
 
-<img src="../img/mina/forestpath.jpg" class="img-fluid">
+<img src="../img/mina/forestpath.jpg" width="300px" >
 
 ## About
 
@@ -30,11 +30,13 @@ To be more specific, if you're not going into the program for a one-off event: p
 In my case, I had to do 20 work hours, with the core activities fulfilling 14 of my 20 hours. Despite this, the service learning taught me a lot about the Hawaiian ecosystem and land management, all the while providing insight into Hawaiian issues and views on land and politics.
 
 One example of such an insight is where we created a rock wall as a group:
-<img src="../img/mina/rockwall.jpg" class="img-fluid">
+
+<img src="../img/mina/rockwall.jpg" class="img-fluid" width="300px" >
 
 This rock wall serves as a way to both functionally prevent runoff from the land it is walling off and as a natural way to show respect to the land and those who will come after us.
 
 We also learned the history and the customs of respect towards heiau, like the one pictured below:
-<img src="../img/mina/mauka.jpg" class="img-fluid">
+
+<img src="../img/mina/mauka.jpg" class="img-fluid" width="300px" >
 
 Being shrines to show respect to the gods, prayer and ceremonies are conducted around these to convene with ancestors and pay thanks to the land we live on. Many times, the activities will have a heiau that prayer, introductions, and closing is committed around. Each heiau has its own history and dedications, which the educators are more than willing to teach about.

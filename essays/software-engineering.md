@@ -61,7 +61,9 @@ With this in mind, I've come to appreciate the many standards that exist: as the
 In terms of self, the same applies from before: but in a different way. Please consider your future self as another person. Don't believe me? Take a step back and remember a time when you booted up a file that you coded previously and just being molly-whopped by the absolute wall of code: with its uncommented and unformatted moving-parts buried beneath characters created in the heat of an overnight caffeine-fueled coding bender just to push out something for a deadline. Good God, my heart palpitates at the very reminder of it. But now you have a completely unreadable 7.5-ounce beef macaroni and cheese ball in your lap that you have to stick your clean and sober hands through to hopefully derive some meaning and build upon.
 
 Unthinkable. Disgusting even. Also, that ball I described exists:
-<img src="../img/software-engineering/macandcheese.jpg">
+
+<img src="../img/software-engineering/macandcheese.jpg"  width="300px" >
+
 The ROUNDMEAL: **Heresy.**
 
 Ignoring that and applying it to myself currently: no matter how much I want to scream that the majority of coding standard is brain-numbing minutia that makes me want to commit a virus that'll delete my repo, I still see the uses and advantages of coding standards.

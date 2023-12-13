@@ -34,7 +34,8 @@ The first ***successful*** project in Unity I did was with a group: to develop a
 >
 >> [LAVA's Site](https://www.lavaflow.info)
 
-<img src="../img/unity-dev/createx.jpg">
+
+<img src="../img/unity-dev/createx.jpg" width="300px" >
 
 *An example of the displays at CreateX*
 

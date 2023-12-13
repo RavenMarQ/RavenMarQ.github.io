@@ -13,7 +13,7 @@ labels:
 summary: "Our group attempted to create a website for ICS 314 about on-campus events."
 ---
 
-<img src="../img/ham/Mockup_LandingPage.png" class="img-fluid">
+<img src="../img/ham/Mockup_LandingPage.png" width="300px" >
 
 > Happening At Manoa is an application for members of the UH Manoa community to see what events are going on in their community as well as search for events that aligns with their interests. Our goal is to help build connectivity within the UH Manoa community with an application that will make knowing about and attending events more convenient.
 
@@ -28,7 +28,7 @@ The team consisting of us five:
 
 I handled the MongoDB, the database and collections, aspect of it, with MongoDB being a document-collection-based database. Do not confuse this with the server-side as the others had their fair share of workings in it. I also handled creating the Edit and Add Event pages, where one can create and edit a posted event. Finally, the final landing page was created by me to link to other pages and look nice. 
 
-<img src="../img/ham/Mockup_EventPost.png" class="img-fluid">
+<img src="../img/ham/Mockup_EventPost.png" width="300px" >
 
 Note: I also tried to implement the Email system, but eventually was unsuccessful, having not learned it sufficiently to deploy it with DigitalOcean.
 
