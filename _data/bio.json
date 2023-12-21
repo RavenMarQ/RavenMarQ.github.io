@@ -1,0 +1,61 @@
+{
+  "basics": {
+    "name": "Raven Quiddaoen",
+    "label": "Student",
+    "picture": "https://github.com/RavenMarQ.png",
+    "email": "ravenmq@hawaii.edu",
+    "phone": "808-341-0263",
+    "website": "https://RavenMarQ.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in Spring, 2025.",
+    "location": { "address": "45-401 Pua Inia Street", "postalCode": "96744", "city": "Kaneohe", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "Github", "username": "RavenMarQ", "url": "http://github.com/RavenMarQ" },
+      { "network": "LinkedIn", "username": "ravenquiddaoen", "url": "https://www.linkedin.com/in/raven-quiddaoen-9812b128a/" }
+    ]
+  },
+  "interests": [
+    { "name": "Application Development" },
+    { "name": "Extended Reality Development" },
+    { "name": "Video Game Development" },
+    { "name": "Artificial Intelligence" },
+    { "name": "Creative Writing: (i.e. Playwriting, Novels, etc.)" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C#", "C++", "Java", "Javascript" ]
+    },
+    {
+      "name": "3D Modelling Environments",
+      "keywords": [ "Maya" ]
+    },
+    {
+      "name": "Development Engines",
+      "keywords": [ "Unity" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2020-08-21",
+      "endDate": "Present",
+      "courses": ["ICS 486: Virtual & Augmented Reality Programming", "ICS 314: Software Engineering I", "ICS 321: Database Systems I", "THEA 318: Playwriting"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "MĀLAMA I NĀ AHUPUAʻA (MINA)",
+      "website": "https://socialsciences.manoa.hawaii.edu/study-at-css/experiential-learning/service-learning/mina/",
+      "position": "Volunteer",
+      "startDate": "August 2022",
+      "endDate": "December 2022",
+      "summary": "Did volunteer work across Oahu across various parts of the ahupua'a",
+      "highlights": [
+        "Assisted in the construction of all-natural stone wall to uphold the banks of a river.",
+        "Assisted in the digging, cleaning, and maintenance of heiau, lo'i kalo, and fishponds."
+      ]
+    }
+  ]
+}
